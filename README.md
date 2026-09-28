@@ -1,16 +1,36 @@
-# React + Vite
+# RePlast — AI-Powered Plastic Recycling Platform ♻️
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## About
 
-Currently, two official plugins are available:
+RePlast is an AI-powered plastic recycling platform that promotes sustainable waste management through intelligent waste classification, scheduled pickups, recycling tracking, and reward-based incentives.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* User Registration and Login
+* Plastic Waste Image Upload
+* Pickup Scheduling
+* Recycling Status Tracking
+* Reward Points and Eco Wallet
+* Admin Dashboard
+* AI-Powered Waste Classification
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the Oxlint configuration
+* React.js
+* JavaScript
+* HTML5
+* CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Installation
+
+```bash
+git clone https://github.com/Usman1906/AI-Powered-Plastic-Recycling-Platform.git
+cd AI-Powered-Plastic-Recycling-Platform
+npm install
+npm run dev
+```
+
+## Developer
+
+**Usman**
+GitHub: https://github.com/Usman1906
